@@ -1,8 +1,8 @@
 ---
-title: Welcome to my website
+title: Welcome to Time Talks, Your Timely Soothing Voice Over Source
 feature_image: "https://picsum.photos/1300/400?image=989"
 feature_text: |
-  ## Hello world
+  ## Time Talks
 ---
 
-There isn't much going on here yet, but watch this space
+👷 Under Construction 👷
